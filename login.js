@@ -1,1 +1,1 @@
-console.log('Login functionality ready');
+console.log('Login V2: SYSTEM SECURE');
